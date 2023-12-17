@@ -1,4 +1,3 @@
-Certainly! Below is an example README.md file that documents your Flask application along with PostgreSQL setup. You can include this content in a file named README.md in the root of your project.
 
 ```markdown
 # Flask PostgreSQL User Management App
